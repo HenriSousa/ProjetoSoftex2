@@ -10,6 +10,6 @@ No entanto, o professor se ausentou da sala por cinco minutos e, ao voltar, perc
 
 Sabendo que o professor tem dificuldade de memorizar, informe como ele descobriu a cadeira em que houve a troca de alunos e qual a disciplina de cada um.
 
-## Resposta
+# Resposta
 
-# Existe 4 alunos ou 2 alunos por linha que gostam de Matemática ou Português, e na Linha onde ocorreu a troca ficou 3 alunos que gostam de Matemática e 3 que gostam de Português, foi assim que o professor descobriu.
+## Existe 4 alunos ou 2 alunos por linha que gostam de Matemática ou Português, e na Linha onde ocorreu a troca ficou 3 alunos que gostam de Matemática e 3 que gostam de Português, foi assim que o professor descobriu.
